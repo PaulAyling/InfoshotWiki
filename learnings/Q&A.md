@@ -13,3 +13,5 @@ A:
 
 Q: CSS how to not display an element whist retaining the space it occupies on page
 A: visibility: hidden
+
+Q: Merge conflicts are time consuming to manage more than 10 I can imagine could be diffiult to manage
