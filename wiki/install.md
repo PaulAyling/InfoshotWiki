@@ -8,7 +8,7 @@ git remote add origin https://github.com/PaulAyling/dndFragment.git
 git push -u origin master
 
 Run this app
-npm start
+npm start dev
 
 Original Dependencies installation
 npm install react-beautiful-dnd --save
